@@ -43,7 +43,7 @@
 
 <h3 align="center">Languages</h3>
 <p align="center">
-    <!--<img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=Go&logoColor=fff"/>-->
+    <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=Go&logoColor=fff"/>
     <!--<img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=Kotlin&logoColor=fff"/>-->
     <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=fff"/>
     <!--<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=fff"/>-->
@@ -58,8 +58,8 @@
 ```typescript
 const Mu Ling = {
     pronouns: ["He", "Him"],
-    hobby: ["Coffee", "Programming", "Music", "Painting"],
-    languages: ["JavaScript", "Python", 'Java', 'C++', "Bash"],
+    hobby: ["Game", "Programming", "Music", "Painting"],
+    languages: ["Golang", "JavaScript", "Python", "Java", "C++", "Bash", "HTML"],
     technologyStack: {
         mobile: {
             android: ["Android X"],
@@ -70,6 +70,6 @@ const Mu Ling = {
 }
 ```
 <p align="right">
-    Designed with :heart: by <a href="https://github.com/KallyDev" target="_blank">KallyDev</a>.
+    Design imitates :heart: from <a href="https://github.com/KallyDev" target="_blank">KallyDev</a>.
 </p>
 </details>
